@@ -1,0 +1,24 @@
+{
+  "name": "hutton",
+  "version": "2.0.0",
+  "description": "A secure, easy-to-use hand cipher.  Invented by u/EricBondHutton.",
+  "type": "module",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "GirkovArpa",
+  "license": "MIT",
+  "keywords": [
+    "webassembly",
+    "wasm",
+    "hutton",
+    "cipher",
+    "classic",
+    "toy",
+    "hand",
+    "manual",
+    "pen",
+    "pencil",
+    "paper"
+  ]
+}
