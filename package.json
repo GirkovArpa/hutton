@@ -1,12 +1,17 @@
 {
   "name": "hutton",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A secure, easy-to-use hand cipher.  Invented by u/EricBondHutton.",
   "type": "module",
   "scripts": {
     "test": "node test"
   },
   "author": "GirkovArpa",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/GirkovArpa/hutton.git"
+  },
+  "homepage": "https://hutton-cipher.netlify.app/",
   "license": "MIT",
   "keywords": [
     "webassembly",
